@@ -1,2 +1,2 @@
 # Azure
-Azure Automation
+Azure Automation Scripts and Resources
